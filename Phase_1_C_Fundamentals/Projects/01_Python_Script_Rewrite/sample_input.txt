@@ -1,0 +1,5 @@
+The quick brown fox jumps over the lazy dog.
+This is a simple test file for our word counter program.
+We are learning C programming language and it is quite interesting!
+Networking requires understanding of protocols and how data is transmitted.
+Let's count the words and characters in this file successfully.
