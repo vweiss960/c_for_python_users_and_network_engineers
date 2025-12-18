@@ -77,13 +77,13 @@ def display_statistics(stats):
 def main():
     """Main entry point."""
 
-    # Check command line arguments
-    if len(sys.argv) != 2:
-        print("Usage: python3 word_counter.py <filename>")
-        print("Example: python3 word_counter.py sample_input.txt")
-        sys.exit(1)
+    # # Check command line arguments
+    # if len(sys.argv) != 2:
+    #     print("Usage: python3 word_counter.py <filename>")
+    #     print("Example: python3 word_counter.py sample_input.txt")
+    #     sys.exit(1)
 
-    filename = sys.argv[1]
+    filename = "sample_input.txt"
 
     # Count statistics
     stats = count_text_statistics(filename)
